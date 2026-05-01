@@ -196,7 +196,8 @@ robFailJailTime: 3600000,
 // =========================
 // SHOP SETTINGS
 // =========================
-// Add shop defaults here when needed.
+// Add shop defaults here when 
+  needed.
 shop: {
 
 },
